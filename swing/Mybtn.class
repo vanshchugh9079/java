@@ -1,0 +1,16 @@
+Êþº¾   A $
+       java/lang/Object <init> ()V   javax/swing/JFrame
+   
+   
+  
+  setSize (II)V  my name is vansh
+      setTitle (Ljava/lang/String;)V
+      	setLayout (Ljava/awt/LayoutManager;)V
+      
+setVisible (Z)V   
+swing/Mybtn Code LineNumberTable main ([Ljava/lang/String;)V 
+SourceFile 
+Mybtn.java                       *· ±            	   !     O     #»  Y· 	L+ôô¶ 
++¶ +¶ +¶ ±                  	  
+ " 
+  "    #
