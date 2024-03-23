@@ -24,8 +24,7 @@ class Multiple {
         }
     }
     public static void main(String[] args) {
-        Multiple multi=new Multiple();
-        Multiple.Activa active = multi.new Activa();
+        Multiple.Activa active = new Multiple.Activa();
         active.charge();
         active.start();
         active.stop();

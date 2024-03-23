@@ -4,7 +4,7 @@ class mywindow extends JFrame {
         setSize(400, 400);
         setLayout(null);
         setVisible(true);
-        setDefaultCloseOperation(EXIT_ON_CLOSE);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
 public class ExtendsFrame {
